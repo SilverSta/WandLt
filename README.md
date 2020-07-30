@@ -8,9 +8,10 @@
 ## Table of contents
 
 - [Description](#Description)
-- [How to use] (#How-to-use)
+- [How to use](#How-to-use)
 - [Technologies](#Technologies)
-- [Authors info] (#Authors-info)
+- [IBM technologies used](#IBM-techs)
+- [Authors info](#Authors-info)
 
 ## Description 
 
@@ -32,6 +33,10 @@
 - Solar pane this feature is intended to be the main power supply of the machine and allowing it to be used anywhere in the world
 - Water pumps switchable technology that allows the water flow through all the dispositive collection
 
+## IBM techs
+
+- As part in the building process of our modular recollection and purifying systems of water, we take on count that in the world are many climatological variables so its indispensable adding an Artificial Intelligence that let us evaluate all the obtained by the units and estimate possible situations that may affect the water supply from the purification unit
+- A data base already has been designed with different climatological variables such as Temperature, Relative humidity, wind direction, wind speed, precipitation, in order to let the IA evaluate the condition which the machine can operate normally
 
 ## Authors info
 
