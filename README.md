@@ -11,7 +11,9 @@
 - [How to use](#How-to-use)
 - [Technologies](#Technologies)
 - [IBM technologies used](#IBM-techs)
+- [link to YouTube video](#YT-video)
 - [Authors info](#Authors-info)
+
 
 ## Description 
 
@@ -37,6 +39,10 @@
 
 - As part in the building process of our modular recollection and purifying systems of water, we take on count that in the world are many climatological variables so its indispensable adding an Artificial Intelligence that let us evaluate all the obtained by the units and estimate possible situations that may affect the water supply from the purification unit
 - A data base already has been designed with different climatological variables such as Temperature, Relative humidity, wind direction, wind speed, precipitation, in order to let the IA evaluate the condition which the machine can operate normally
+
+## YT video
+
+https://youtu.be/85_e_S4juwQ
 
 ## Authors info
 
