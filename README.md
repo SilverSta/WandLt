@@ -17,9 +17,8 @@
 
 ## Description 
 
-- Water and Life technologies is a product intended to reach the more vulnerable populations around the world
-- Its main purpose is to purify water and make it drinkable for those who can barely access this resource with a safe supply
-- With the help of solar energy and IoT the solution will be capable of reaching vulnerable populations and supply them with potable water
+- Water and Life technologies is a product intended to reach the more vulnerable populations around the world Its main purpose is to purify water and make it drinkable for those who can barely access this resource with a safe supply With the help of solar energy and IoT the solution will be capable of reaching vulnerable populations and supply them with potable water
+- The main code is designed for the microcontroller ESP32 using de platfomIO addon with VS code.
 
 ## How to use
 
