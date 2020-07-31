@@ -11,7 +11,7 @@
 - [How to use](#How-to-use)
 - [Technologies](#Technologies)
 - [IBM technologies used](#IBM-techs)
-- [link to YouTube video](#YT-video)
+- [Link to YouTube video](#YT-video)
 - [Authors info](#Authors-info)
 
 
